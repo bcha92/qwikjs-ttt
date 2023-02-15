@@ -1,0 +1,9 @@
+.tile {
+    background: white;
+    margin: 4px;
+    text-align: center;
+    font-size: 600%;
+    min-width: 1em;
+    min-height: 1.2em;
+    cursor: pointer;
+}

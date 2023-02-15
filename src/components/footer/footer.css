@@ -1,0 +1,17 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5em;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+footer a {
+    margin: 0.5em 1em;
+    text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
