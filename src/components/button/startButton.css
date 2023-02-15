@@ -1,0 +1,17 @@
+.start {
+    font-size: 1em;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    color: white;
+    background-color: var(--qwik-light-blue);
+    border-radius: 10%;
+}
+
+.start:hover {
+    background-color: var(--qwik-dark-blue);
+}
+
+.start:active {
+    background-color: var(--qwik-dark-purple);
+}
